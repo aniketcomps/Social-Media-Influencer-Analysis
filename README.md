@@ -29,8 +29,11 @@ Save the credentials in a json file 'credentials.json' with the following struct
 
 ### Data Sources
 
-### For part-1: Kaggle network dataset - [Influncers in Social Networks](https://www.kaggle.com/competitions/predict-who-is-more-influential-in-a-social-network) 
-### For part-2: Tweets about Austin city from Twitter API
+### For part-1:
+Kaggle network dataset - [Influencers in Social Networks](https://www.kaggle.com/competitions/predict-who-is-more-influential-in-a-social-network) 
+
+### For part-2:
+Tweets about Austin city from Twitter API
 
 ### Approach
 
