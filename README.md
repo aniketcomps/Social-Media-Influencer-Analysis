@@ -2,7 +2,7 @@
 
 ### Goal
 
-Identify which Twitter users are most influential in Austin city community and factors drive that influence.
+Identify which Twitter users are most influential in Austin city community, factors that drive influence and quantify financial benefit of influencer marketing.
 
 ### Installation
 
